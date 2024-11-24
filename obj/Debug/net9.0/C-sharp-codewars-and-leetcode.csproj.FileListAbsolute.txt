@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\bin\Debug\net9.0\C-sharp-codewars-and-leetcode.exe
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\bin\Debug\net9.0\C-sharp-codewars-and-leetcode.deps.json
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\bin\Debug\net9.0\C-sharp-codewars-and-leetcode.runtimeconfig.json
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\bin\Debug\net9.0\C-sharp-codewars-and-leetcode.dll
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\bin\Debug\net9.0\C-sharp-codewars-and-leetcode.pdb
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\C-sharp-codewars-and-leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\C-sharp-codewars-and-leetcode.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\C-sharp-codewars-and-leetcode.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\C-sharp-codewars-and-leetcode.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\C-sharp-codewars-and-leetcode.dll
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\refint\C-sharp-codewars-and-leetcode.dll
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\C-sharp-codewars-and-leetcode.pdb
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\C-sharp-codewars-and-leetcode.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\C-sharp-codewars-and-leetcode\obj\Debug\net9.0\ref\C-sharp-codewars-and-leetcode.dll
