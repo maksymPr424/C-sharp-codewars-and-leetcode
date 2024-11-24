@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.SQLite;
 
 /*
 
@@ -81,3 +82,46 @@ namespace Solution
 }
 */
 
+
+// Work with SQLite
+/*
+
+class Program
+{
+    static void Main()
+    {
+        string connString = "Data Source=baaza.db";
+        using (var conn = new SQLiteConnection(connString))
+        {
+            conn.Open();
+
+            string insertQuery = "INSERT INTO People (firstName, lastName, age) VALUES ($firstName, $lastName, $age)";
+
+            using (var command = new SQLiteCommand(insertQuery, conn))
+            {
+                command.Parameters.AddWithValue("$firstName", "Alisa");
+                command.Parameters.AddWithValue("$lastName", "Brown");
+                command.Parameters.AddWithValue("$age", 25);
+                command.ExecuteNonQuery();
+                System.Console.WriteLine("Success!");
+            }
+
+
+            
+            string selectQuery = "SELECT * FROM People where age > 30";
+
+            using (var command = new SQLiteCommand(selectQuery, conn))
+            {
+                using (var reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        Console.WriteLine($"ID: {reader["id"]}, Name: {reader["firstName"]} {reader["lastName"]}, Age: {reader["age"]}");
+                    }
+                }
+            }
+            
+        }
+    }
+}
+*/

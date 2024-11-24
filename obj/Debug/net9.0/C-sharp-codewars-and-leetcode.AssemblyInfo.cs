@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-sharp-codewars-and-leetcode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f12e1b278eb9da15a934e7cea33e15f1ea44f76")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-sharp-codewars-and-leetcode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-sharp-codewars-and-leetcode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
